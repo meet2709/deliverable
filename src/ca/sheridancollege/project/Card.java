@@ -5,7 +5,7 @@ package ca.sheridancollege.project;
  * enough to be instantiated for any Card game. Students wishing to add to the code
  * should remember to add themselves as a modifier.
  * @author dancye, 2018
- */
+ *///meet thakkar
 public abstract class Card {
 
 	/**
